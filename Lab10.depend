@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1619212006 source:g:\1 курс\языки программировани€\lab10\main.cpp
+	<any>
+	<iostream>
+	<vector>
+	<variant>
+	<algorithm>
+	"limit.h"
+	"validate.h"
+	"menu_class.h"
+	"time_date_class.h"
+	"flight_class.h"
+
+1615908679 g:\1 курс\языки программировани€\lab10\limit.h
+
+1615908622 g:\1 курс\языки программировани€\lab10\validate.h
+	<cstdio>
+	<iostream>
+
+1618034669 g:\1 курс\языки программировани€\lab10\menu_class.h
+	<iostream>
+	<variant>
+	<vector>
+	<string>
+	<cstdio>
+	"flight_class.h"
+
+1619212119 g:\1 курс\языки программировани€\lab10\flight_class.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"time_date_class.h"
+
+1619205069 g:\1 курс\языки программировани€\lab10\time_date_class.h
+	<iostream>
+
+1615909090 source:g:\1 курс\языки программировани€\lab10\validate.cpp
+	<cstdio>
+	<iostream>
+	"validate.h"
+	"limit.h"
+
+1615909090 source:d:\1 курс\языки программировани€\lab10\validate.cpp
+	<cstdio>
+	<iostream>
+	"validate.h"
+	"limit.h"
+
+1615908622 d:\1 курс\языки программировани€\lab10\validate.h
+	<cstdio>
+	<iostream>
+
+1615908679 d:\1 курс\языки программировани€\lab10\limit.h
+
+1619210539 source:c:\lab10\main.cpp
+	<any>
+	<iostream>
+	<vector>
+	<variant>
+	<algorithm>
+	"limit.h"
+	"validate.h"
+	"menu_class.h"
+	"time_date_class.h"
+	"flight_class.h"
+
+1615908679 c:\lab10\limit.h
+
+1615908622 c:\lab10\validate.h
+	<cstdio>
+	<iostream>
+
+1618034669 c:\lab10\menu_class.h
+	<iostream>
+	<variant>
+	<vector>
+	<string>
+	<cstdio>
+	"flight_class.h"
+
+1619210711 c:\lab10\flight_class.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"time_date_class.h"
+
+1619205069 c:\lab10\time_date_class.h
+	<iostream>
+
+1615909090 source:c:\lab10\validate.cpp
+	<cstdio>
+	<iostream>
+	"validate.h"
+	"limit.h"
+
+1615909090 source:g:\1 year\programming languages\lab10\validate.cpp
+	<cstdio>
+	<iostream>
+	"validate.h"
+	"limit.h"
+
+1615908622 g:\1 year\programming languages\lab10\validate.h
+	<cstdio>
+	<iostream>
+
+1615908679 g:\1 year\programming languages\lab10\limit.h
+
